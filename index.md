@@ -11,23 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My CS193 Project
-## 8/27/2021
-### Homework #0
+# Kyu Kim's First CS193 Homework
 
-- Data structures to learn
 
-1. Set
-2. List
-3. Array
-4. LinkedList
-5. Breadth First Search
-6. Binary Tree
-7. Bubble Sort
+- Straight to the point
+- Fun TAs
+- Lectures at WALC
+- Has Good internet
+- Chill Class
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
 
 ```
 
